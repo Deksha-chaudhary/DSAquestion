@@ -15,15 +15,15 @@ public class Insert_DeleteElmnt {
         // }
               
                   //------- delete element----
-        int p = 2;
-        int a[] = { 1, 2, 3, 4 };
-        for(int i=p;i<a.length-1;i++){
-            a[i]=a[i+1];
-        }
+        // int p = 2;
+        // int a[] = { 1, 2, 3, 4 };
+        // for(int i=p;i<a.length-1;i++){
+        //     a[i]=a[i+1];
+        // }
     
-        for(int i=0;i<a.length-1;i++){
-            System.out.println(a[i]);
-        }
+        // for(int i=0;i<a.length-1;i++){
+        //     System.out.println(a[i]);
+        // }
       
 
          //-------  insert and delete by using arraylist--------
