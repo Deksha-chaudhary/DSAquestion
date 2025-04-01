@@ -23,7 +23,7 @@ public class CountDuplicateChar {
 
     // ----- using hashmap also sort ----------------
     public static  void isDuplicateChar(String s){
-        Map<Character,Integer> map=new TreeMap(); 
+        Map<Character,Integer> map=new TreeMap<>(); 
         for(char c:s.toCharArray()){
             map.put(c,map.getOrDefault(c,0)+1);
             }

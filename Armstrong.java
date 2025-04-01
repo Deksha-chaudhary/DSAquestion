@@ -4,7 +4,7 @@ public class Armstrong {
         int num=n;
         double c=0,arm=0;
         while(n>=1){
-          double   rem=n%10;
+        //   double rem=n%10;
             c++;
             n=n/10;
         }
