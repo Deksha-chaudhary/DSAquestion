@@ -1,5 +1,5 @@
 public class IsArraySort2 {
-    public static void main(String[] args) {
+    public static void main(String[] args) {    // logic for check isSort and ladder nymber 
         int a[]={9,8,7,6,5,4,3};
         System.out.println(isSort(a));
         
